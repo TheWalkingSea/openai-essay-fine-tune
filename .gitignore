@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 
-config.json
-essays/*.docx
+.env
+essays/
+!essays/.gitkeep
 .idea
